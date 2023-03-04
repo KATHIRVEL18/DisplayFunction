@@ -1,0 +1,46 @@
+
+
+
+
+img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-top: 25px;
+    margin-left: 20px ;
+    border-radius: 30px;
+ 
+}
+
+
+button{
+    margin-left: 70px;
+    margin-top: 250px;
+    border-radius: 20px;
+    background-color: crimson;
+    border-color: crimson;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+
+
+button:hover{
+    background-color: #ff0000
+}
+
+.myDiv{
+    display: inline-block;
+    
+}
+
+.myDiv2{
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.myDiv3{
+    display: inline-block;
+    margin-left: 10%;
+}
